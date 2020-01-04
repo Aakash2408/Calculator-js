@@ -139,7 +139,7 @@
 @media(min-width:200px){
   #calcModal{
  
-    top:10%;
+    top:13%;
     left:4%;
   
   }
@@ -169,19 +169,44 @@
 @media(min-width:200px){
   #calcThumb {
     top:8%;
-    left:8%;
+    left:39%;
   }
 }
 @media(min-width:765px){
   #calcModal {
     top:10%;
       }
+      #calcModal{
+ 
+        top:12%;
+        left:4%;
+      
+      }
+        #calculator{
+        height:620px;
+        width:400px;
+      }
+    
+      .modal-body{
+        height:700px;
+        width:150px;
+      }
+      
+      .modal-content{
+        height:730px;
+        width:430px;
+      }
+      #calculator .btn{
+        height:11.8%;
+        
+      }
+
 }
 
 @media(min-width:765px){
   #calcThumb {
     top:5%;
-    left:8%;
+    left:48%;
   }
   
 }
