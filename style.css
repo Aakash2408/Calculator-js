@@ -113,6 +113,24 @@
     top:10%;
     left:4%;
   }
+     #calculator{
+    height:400px;
+    width:300px;
+  }
+
+  .modal-body{
+    height:400px;
+    width:100px;
+  }
+  
+  .modal-content{
+    height:500px;
+    width:330px;
+  }
+  #calculator .btn{
+    height:10%;
+    
+  }
 }
 
 @media(min-width:500px){
