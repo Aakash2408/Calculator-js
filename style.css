@@ -107,19 +107,20 @@
   }
 
 
-@media only screen and (min-width:200px){
+@media(min-width:200px){
   #calcModal{
  
     top:10%;
     left:4%;
+  
   }
-     #calculator{
+    #calculator{
     height:400px;
     width:300px;
   }
 
   .modal-body{
-    height:400px;
+    height:300px;
     width:100px;
   }
   
@@ -131,15 +132,18 @@
     height:10%;
     
   }
+  /* .form-control{
+    height: 100px;
+  } */
 }
 
 @media(min-width:500px){
   #calcThumb {
-    top:5%;
+    top:8%;
     left:40%;
   }
 }
-@media only screen and (min-width:765px){
+@media(min-width:765px){
   #calcModal {
     top:10%;
       }
@@ -150,4 +154,5 @@
     top:5%;
     left:48%;
   }
+  
 }
